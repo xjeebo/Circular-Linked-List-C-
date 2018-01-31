@@ -238,9 +238,7 @@ void CList::disp(){
 int main(){
   system("clear");
   CList list; int option;
-  cout << setw(40) << " " << "~~~~~~~~~~~~~~~~~~~" << endl;
-  cout << setw(40) << " " << "~~EXTRA CREDIT!!!~~" << endl;
-  cout << setw(40) << " " << "~~~~~~~~~~~~~~~~~~~" << endl;  
+
   cout << "List:" << endl;
   cout << "1. add element" << endl;
   cout << "2. remove element" << endl;
